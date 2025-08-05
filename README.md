@@ -12,11 +12,7 @@
 
 ---
 
-## 📸 Email Header Screenshots
-1. ![Header Screenshot 1](email-header-screenshot-1.png)
-2. ![Header Screenshot 2](email-header-screenshot-2.png)
 
----
 
 ## 📝 Summary of Analysis
 
